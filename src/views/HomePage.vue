@@ -7,7 +7,7 @@
           <span class="badge rounded-pill px-3 py-2 mb-2" style="background-color: var(--vday-romantic); color: white;">
             February 14, 2026
           </span>
-          <h1 class="display-4 fw-bold mb-3" style="color: var(--vday-primary); font-family: 'Playfair Display', serif;">
+          <h1 class="display-4 fw-bold my-3" style="color: var(--vday-primary); font-family: 'Playfair Display', serif;">
             A Valentine's Adventure
           </h1>
         </div>
