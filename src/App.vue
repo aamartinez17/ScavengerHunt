@@ -8,7 +8,7 @@
   <!-- <Navbar /> -->
   
   <main>
-    <!-- <RouterView /> -->
+    <RouterView />
   </main>
 
   <!-- <Footer /> -->
