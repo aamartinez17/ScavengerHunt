@@ -147,7 +147,7 @@ onMounted(() => {
 }
 
 .blur-effect {
-  filter: blur(10px);
+  filter: blur(4px);
   opacity: 0.7;
   max-height: 200px;
   width: 100%;
