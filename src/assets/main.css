@@ -3,7 +3,7 @@
   /* Primary Palette - Calming Spa Vibes */
   --vday-primary: #6b8e23;    /* Olive/Eucalyptus Green */
   --vday-secondary: #f4f1ea;  /* Warm Oatmeal Neutral */
-  --vday-accent: #d4a373;     /* Soft Terracotta/Gold */
+  --vday-accent: #aa0909;     /* Soft Terracotta/Gold */
   --vday-romantic: #e6b3b3;   /* Muted Rose */
   
   /* Text Colors */
@@ -11,7 +11,7 @@
   --text-muted: #81b29a;      /* Soft Sage for secondary text */
   
   /* Backgrounds */
-  --bg-spa: #faf9f6;          /* Off-white "Clean" background */
+  --bg-spa: #ff80bf;          /* Off-white "Clean" background */
   
   /* Spacing & Borders */
   --border-radius-soft: 12px;
