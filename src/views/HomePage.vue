@@ -1,6 +1,6 @@
 <template>
   <div class="hunt-container">
-    <div class="content-wrapper px-4" data-aos="fade-up">
+    <div class="content-wrapper px-0 mx-0" data-aos="fade-up">
       
       <div class="riddle-card text-center shadow-lg p-5">
         <div class="mb-4">
@@ -115,6 +115,8 @@ onMounted(() => {
 .content-wrapper {
   width: 100%;
   max-width: 500px;
+  padding-left: 15px; 
+  padding-right: 15px;
   /* Removal of mt-auto/mb-auto allows flex-center to do the work */
 }
 

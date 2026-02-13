@@ -11,7 +11,7 @@
       </div>
     </div>
 
-    <div class="content-wrapper px-4">
+    <div class="content-wrapper px-0 mx-0">
       <div v-if="!completed" class="riddle-card shadow-lg" data-aos="zoom-in">
         
         <div v-if="!unlocked">
@@ -127,12 +127,14 @@ onMounted(() => {
   align-items: center;     /* Horizontal Center */
   padding-top: 80px;      /* Space for fixed header */
   padding-bottom: 40px;
+  
 }
 
 .content-wrapper {
   width: 100%;
   max-width: 450px;       /* Tightened for better mobile feel */
   margin: 0 auto;
+  
 }
 
 .riddle-card {
