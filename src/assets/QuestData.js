@@ -28,7 +28,7 @@ export const questSteps = [
     },
     {
     id: 4,
-    riddle: "In 2021, I packed up my life in the valley and left the only home I knew. It was the biggest gamble of my life, but I didn't need a map to know where I was going, I just needed to be where you were. I traded the Virginia mountains for the big city life because I knew, without a doubt, that you were my future. Look for the vessel that holds a piece of my 'Old Dominion' roots.",
+    riddle: "In 2021, I packed up my life in the valley and left the only home I knew. It was the biggest gamble of my life, but I didn't need a map to know where I was going, I just needed to be where you were. I traded the Virginia mountains for the big city life because I knew, without a doubt, that you were my future. Look for the vessel that holds a piece of my 'Rocktown' roots.",
     answer: "worthit", 
     image: "/images/new_haven_move.jpg", // A photo from your moving day or New Haven sign
     blurryImage: "/images/va_mug_blur.jpg", // A blurry photo of the Virginia mug
@@ -42,7 +42,7 @@ export const questSteps = [
     image: "/images/honor_society.jpg", // A photo of the pin or your transcript
     blurryImage: "/images/pin_blur.jpg", // A blurry close-up of the gold pin
     hint: "It's a small golden point of pride, resting where the ink meets the paper.",
-    successMessage: "You found it! That pin says I'm a scholar, but it's actually a trophy for us both. I wouldn't be half the student (or man), I am without you pushing me. We're almost to the end. Ready for the next one?"
+    successMessage: "You found it! That pin says I'm a scholar, but it's actually a trophy for us both. I wouldn't be half the student (or man), I am without you pushing me. Ready for the next one?"
     },
     {
     id: 6,
@@ -51,7 +51,7 @@ export const questSteps = [
     image: "/images/new_car.jpg", // A photo of her with the car
     blurryImage: "/images/key_holder_blur.jpg", // A blurry photo of the mail/key holder
     hint: "It's tucked away where the letters wait to be read, right next to where we hang our path home.",
-    successMessage: "You found it! That car is more than just a way to get around; it's a symbol of how much I want you to have the best of everything. I'm so proud to be the one who gets to support your journey. Ready for the next one?"
+    successMessage: "You found it! A car is more than just a way to get around; it's a symbol of how much I want you to have the best of everything. I'm so proud to be the one who gets to support your journey. Ready for the next one?"
     },
     {
     id: 7,
