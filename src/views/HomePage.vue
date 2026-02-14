@@ -13,7 +13,7 @@
         </div>
         
         <p class="lead text-secondary mb-5">
-          {{ isReturning ? "You're doing great! Ready to find the next one?" : "A slow morning, no deadlines, and a few secrets hidden around the house. Ready to find your first clue?" }}
+          {{ isReturning ? "You're doing great! Ready to find the next one?" : "A slow morning, no deadlines, and a few secrets hidden around the house. Ready for the first memory?" }}
         </p>
 
         <div class="d-grid gap-3">

@@ -105,7 +105,7 @@ export const questSteps = [
     image: "/images/dogs_with_her.jpg", // A photo of her cuddling the pups
     blurryImage: "/images/dog_toys_blur.jpg", // A blurry photo of the toy basket
     hint: "It's hidden where the tails start wagging, tucked away among the squeaks and the fluff.",
-    successMessage: "You found it! Watching you with the dogs is one of my favorite things. You are the most caring person I know, and I can't wait to see that love grow even more. We're getting closer... ready for the next one?"
+    successMessage: "You found it! Watching you with the boys is one of my favorite things. You are the most caring person I know, and I can't wait to see that love grow even more. We're getting closer... ready for the next one?"
     },
     {
     id: 13,
